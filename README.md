@@ -12,6 +12,7 @@ git submodule add https://github.com/umbiliko/um-def.git
 git submodule add https://github.com/umbiliko/um-dir.git
 git submodule add https://github.com/umbiliko/um-graph.git
 git submodule add https://github.com/umbiliko/um-hub.git
+git submodule add https://github.com/umbiliko/um-ml.git
 git submodule add https://github.com/umbiliko/um-logo.git
 git submodule add https://github.com/umbiliko/um-pod.git
 git submodule add https://github.com/umbiliko/um-plot.git
