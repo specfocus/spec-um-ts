@@ -19,6 +19,7 @@ git submodule add https://github.com/umbiliko/um-plot.git
 git submodule add https://github.com/umbiliko/um-ts.git
 git submodule add https://github.com/umbiliko/um-ui.git
 git submodule add https://github.com/umbiliko/um-ux.git
+git submodule add https://github.com/umbiliko/um-material-ui.git
 
 git submodule update --init
 ```
