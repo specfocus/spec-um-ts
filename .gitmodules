@@ -34,3 +34,9 @@
 [submodule "um-ux"]
 	path = um-ux
 	url = https://github.com/umbiliko/um-ux.git
+[submodule "um-ml"]
+	path = um-ml
+	url = https://github.com/umbiliko/um-ml.git
+[submodule "um-material-ui"]
+	path = um-material-ui
+	url = https://github.com/umbiliko/um-material-ui.git
