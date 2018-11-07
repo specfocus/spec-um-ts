@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e0eae75c-7bcd-41dd-a889-f6b74279679c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/um-logo/src/actions/geometric/reflection.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/um-logo/src/actions/geometric/rotation.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/um-logo/src/actions/geometric/translation.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/um-logo/src/types/ArrayPath.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/um-logo/src/utils/getIn.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/um-logo/src/utils/isMatrix.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/um-logo/src/utils/isMatrix3D.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/um-logo/src/utils/isVector.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/um-logo/src/utils/isVector3D.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/um-logo/src/utils/omit.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/um-logo/src/utils/setIn.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/um-plot/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/um-plot/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/um-plot/src/actions/multiplyIn.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/um-plot/src/actions/reflectIn.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/um-plot/src/actions/rotateIn.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/um-plot/src/actions/translateIn.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/um-plot/src/constants/actions.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/um-plot/src/definitions/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/um-plot/src/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/um-plot/src/operations.ts/multiplication.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/um-plot/src/operations.ts/reflection.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/um-plot/src/operations.ts/rotation.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/um-plot/src/operations.ts/translation.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/um-plot/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/um-plot/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/um-ts/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/um-ts/build/dist/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/um-ts/build/dist/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/um-ts/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/um-ts/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/um-ts/src/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/um-ts/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/um-ux/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-logo" beforeDir="false" afterPath="$PROJECT_DIR$/um-logo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-logo/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/um-logo/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-logo/src/actions/arithmetic/decrement.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-logo/src/actions/arithmetic/decrement.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-logo/src/actions/arithmetic/increment.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-logo/src/actions/arithmetic/increment.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-logo/src/actions/clear.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-logo/src/actions/clear.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-logo/src/actions/geometric/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-logo/src/actions/geometric/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-logo/src/components/drawing/point.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-logo/src/components/drawing/point.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-logo/src/components/drawing/quadraticCurve.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-logo/src/components/drawing/quadraticCurve.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-logo/src/components/drawing/quadraticCurveTo.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-logo/src/components/drawing/quadraticCurveTo.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-logo/src/epics/intervalEpic.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-logo/src/epics/intervalEpic.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-logo/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/um-logo/src/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-logo/src/store/createEpicMiddleware.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-logo/src/store/createEpicMiddleware.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-logo/src/store/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-logo/src/store/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-logo/src/types/IPoint.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-logo/src/types/IPoint.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-logo/src/types/IQuadrantProps.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-logo/src/types/IQuadrantProps.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-logo/src/types/IVector.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-logo/src/types/IVector.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-logo/src/types/Path2D.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-logo/src/types/Path2D.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-logo/src/types/actions/Change.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-logo/src/types/actions/Change.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-logo/src/types/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-logo/src/types/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-logo/src/utils/angle.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-logo/src/utils/angle.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-logo/src/utils/calcControl.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-logo/src/utils/calcControl.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-logo/src/utils/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-logo/src/utils/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-logo/src/utils/rotate.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-logo/src/utils/rotate.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-plot" beforeDir="false" afterPath="$PROJECT_DIR$/um-plot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-pod" beforeDir="false" afterPath="$PROJECT_DIR$/um-pod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-pod/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/um-pod/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-ts/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/um-ts/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-ui" beforeDir="false" afterPath="$PROJECT_DIR$/um-ui" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-ui/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/um-ui/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-ux" beforeDir="false" afterPath="$PROJECT_DIR$/um-ux" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-ux/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/um-ux/package.json" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-754411783">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="3044" />
+    <option name="y" value="217" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="um" type="b2602c69:ProjectViewProjectNode" />
+              <item name="um" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="um" type="b2602c69:ProjectViewProjectNode" />
+              <item name="um" type="462c0819:PsiDirectoryNode" />
+              <item name="um-app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="um" type="b2602c69:ProjectViewProjectNode" />
+              <item name="um" type="462c0819:PsiDirectoryNode" />
+              <item name="um-app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e0eae75c-7bcd-41dd-a889-f6b74279679c" name="Default Changelist" comment="" />
+      <created>1541520925567</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541520925567</updated>
+      <workItem from="1541520931430" duration="241000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="241000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="2360" y="22" width="1400" height="1000" extended-state="0" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2496329" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+</project>

@@ -1,42 +1,18 @@
 [submodule "um-app"]
 	path = um-app
 	url = https://github.com/umbiliko/um-app.git
-[submodule "um-base"]
-	path = um-base
-	url = https://github.com/umbiliko/um-base.git
 [submodule "um-core"]
 	path = um-core
 	url = https://github.com/umbiliko/um-core.git
-[submodule "um-def"]
-	path = um-def
-	url = https://github.com/umbiliko/um-def.git
 [submodule "um-dir"]
 	path = um-dir
 	url = https://github.com/umbiliko/um-dir.git
-[submodule "um-hub"]
-	path = um-hub
-	url = https://github.com/umbiliko/um-hub.git
 [submodule "um-logo"]
 	path = um-logo
 	url = https://github.com/umbiliko/um-logo.git
-[submodule "um-pod"]
-	path = um-pod
-	url = https://github.com/umbiliko/um-pod.git
 [submodule "um-plot"]
 	path = um-plot
 	url = https://github.com/umbiliko/um-plot.git
-[submodule "um-ts"]
-	path = um-ts
-	url = https://github.com/umbiliko/um-ts.git
-[submodule "um-ui"]
-	path = um-ui
-	url = https://github.com/umbiliko/um-ui.git
-[submodule "um-ux"]
-	path = um-ux
-	url = https://github.com/umbiliko/um-ux.git
-[submodule "um-ml"]
-	path = um-ml
-	url = https://github.com/umbiliko/um-ml.git
 [submodule "um-material-ui"]
 	path = um-material-ui
 	url = https://github.com/umbiliko/um-material-ui.git

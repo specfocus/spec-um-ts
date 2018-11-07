@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/um-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/um-base" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/um-core" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/um-def" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/um-dir" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/um-hub" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/um-logo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/um-material-ui" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/um-ml" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/um-plot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/um-pod" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/um-ts" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/um-ui" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/um-ux" vcs="Git" />
+  </component>
+</project>
