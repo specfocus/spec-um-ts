@@ -46,7 +46,7 @@
     <session id="-754411783">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.114" value="1" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.2" value="1" />
@@ -124,23 +124,14 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/um-app/src/containers/MovieContainer/useMovieBox.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+            <state relative-caret-position="85">
+              <caret line="5" column="56" lean-forward="true" selection-start-line="5" selection-start-column="56" selection-end-line="5" selection-end-column="56" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/um-core/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="731">
-              <caret line="43" column="8" selection-start-line="43" selection-start-column="8" selection-end-line="43" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -150,18 +141,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
               <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
-              <folding>
-                <element signature="e#0#31#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/um-app/src/components/Img.tsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
               </folding>
@@ -353,20 +332,20 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
     <handled-path value="$PROJECT_DIR$/um-app/node_modules" />
     <handled-path value="$PROJECT_DIR$/um-core/node_modules" />
-    <handled-path value="$PROJECT_DIR$/um-logo/node_modules" />
+    <handled-path value="$PROJECT_DIR$/um-react-logo/node_modules" />
+    <handled-path value="$PROJECT_DIR$/um-react-shell/node_modules" />
     <handled-path value="$PROJECT_DIR$/um-react-view/node_modules" />
     <handled-path value="$PROJECT_DIR$/um-react-vis/node_modules" />
-    <handled-path value="$PROJECT_DIR$/um-shell/node_modules" />
   </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths>
       <path value="$PROJECT_DIR$/package.json" />
       <path value="$PROJECT_DIR$/um-app/package.json" />
       <path value="$PROJECT_DIR$/um-core/package.json" />
-      <path value="$PROJECT_DIR$/um-logo/package.json" />
+      <path value="$PROJECT_DIR$/um-react-logo/package.json" />
+      <path value="$PROJECT_DIR$/um-react-shell/package.json" />
       <path value="$PROJECT_DIR$/um-react-view/package.json" />
       <path value="$PROJECT_DIR$/um-react-vis/package.json" />
-      <path value="$PROJECT_DIR$/um-shell/package.json" />
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
@@ -475,12 +454,12 @@
       <workItem from="1541549336504" duration="89027000" />
       <workItem from="1541799794337" duration="2856000" />
       <workItem from="1542040536834" duration="44180000" />
-      <workItem from="1542233057752" duration="26292000" />
+      <workItem from="1542233057752" duration="26883000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="184457000" />
+    <option name="totallyTimeSpent" value="185048000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3832" y="-395" width="1096" height="1896" extended-state="6" />
@@ -872,8 +851,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/um-app/src/containers/MovieContainer/useMovieBox.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+        <state relative-caret-position="85">
+          <caret line="5" column="56" lean-forward="true" selection-start-line="5" selection-start-column="56" selection-end-line="5" selection-end-column="56" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>

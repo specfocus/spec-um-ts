@@ -1,0 +1,1 @@
+export default (u: number, l: number = 0): number[] => [...Array(u)].map((n, i) => i + l);
