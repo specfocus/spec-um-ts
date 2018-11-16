@@ -32,3 +32,6 @@
 [submodule "um-material-ui"]
 	path = um-material-ui
 	url = https://github.com/umbiliko/um-material-ui.git
+[submodule "um-react-adm"]
+	path = um-react-adm
+	url = https://github.com/umbiliko/um-react-adm.git
