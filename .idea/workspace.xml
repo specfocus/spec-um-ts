@@ -2,24 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0eae75c-7bcd-41dd-a889-f6b74279679c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/um-app/src/components/Form.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/um-app/src/components/FormInput.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/um-app/src/components/Row.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/um-app/src/containers/Authentication/RecoverAccessForm.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/um-app/src/containers/Authentication/RecoverIdentityForm.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/um-app/src/containers/Authentication/SignInForm.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/um-app/src/containers/Authentication/SignUpForm.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/um-app/src/containers/Authentication/UpdateSecretForm.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/um-app/src/containers/Authentication/api.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/um-app/src/containers/Authentication/effects/useRecoverAccess.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/um-app/src/containers/Authentication/effects/useRecoverIdentity.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/um-app/src/containers/Authentication/effects/useSignIn.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/um-app/src/containers/Authentication/effects/useSignUp.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/um-app/src/containers/Authentication/effects/useUpdateSecret.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/um-app/src/containers/Authentication/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/um-app/src/effects/useAuthentication.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/um-app/src/effects/useReducer.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/um-app/src/reducers/arrayReducer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/um-plot/package-lock.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/um-plot/package.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/um-plot/src/actions/multiplyIn.ts" afterDir="false" />
@@ -35,16 +18,29 @@
       <change afterPath="$PROJECT_DIR$/um-plot/src/operations.ts/translation.ts" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/um-plot/tsconfig.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/um-plot/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/um-react-view/src/appbar/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/um-react-view/src/data/loader/Loader.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/um-react-view/src/form/field/FancyInput.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/um-react-view/src/spinner/Spinner.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/um-react-view/src/spinner/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/um-react-view/src/window/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/um-react-view/src/window/useWindow.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/um-react-view/src/window/useWindowWidth.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/um-shell" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitmodules" beforeDir="false" afterPath="$PROJECT_DIR$/.gitmodules" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tslint.json" beforeDir="false" afterPath="$PROJECT_DIR$/tslint.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/um-app" beforeDir="false" afterPath="$PROJECT_DIR$/um-app" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/um-app/src/components/Alert.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/um-app/src/components/Alert.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/um-app/src/components/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-app/src/components/index.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/um-app/src/context/LocaleContext.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-app/src/context/LocaleContext.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/um-app/src/context/RouterContext.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/um-app/src/context/RouterContext.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/um-app/src/context/Shell/Shell.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/um-app/src/context/Shell/Shell.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/um-app/src/context/ThemeContext.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-app/src/context/ThemeContext.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/um-app/src/effects/useForm.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-app/src/effects/useForm.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/um-app/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-app/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/um-app/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-app/src/components/Img.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/um-app/src/components/Img.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-app/src/containers/MovieContainer/useMovieBox.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-app/src/containers/MovieContainer/useMovieBox.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-app/src/effects/useMedia.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-app/src/effects/useMedia.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-app/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/um-app/src/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-core/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/um-core/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-core/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/um-core/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-logo" beforeDir="false" afterPath="$PROJECT_DIR$/um-logo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-logo/typings/globals.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-logo/typings/globals.d.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/um-plot" beforeDir="false" afterPath="$PROJECT_DIR$/um-plot" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -60,49 +56,63 @@
     <session id="-754411783">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.114" value="1" />
           <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.21" value="1" />
           <entry key="project.open.time.80" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="Home" value="1" />
+          <entry key="ShellContainer" value="1" />
+          <entry key="StatusBar" value="1" />
+          <entry key="app" value="1" />
+          <entry key="css" value="1" />
           <entry key="gitmodules" value="1" />
-          <entry key="json" value="3" />
-          <entry key="ts" value="123" />
-          <entry key="tsx" value="62" />
+          <entry key="js" value="21" />
+          <entry key="json" value="47" />
+          <entry key="md" value="7" />
+          <entry key="ts" value="1422" />
+          <entry key="tsq" value="1" />
+          <entry key="tsx" value="189" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JSON" value="2" />
-          <entry key="PLAIN_TEXT" value="1" />
-          <entry key="TypeScript" value="123" />
-          <entry key="TypeScript JSX" value="62" />
-          <entry key="tsconfig" value="1" />
+          <entry key="CSS" value="1" />
+          <entry key="JSON" value="31" />
+          <entry key="JavaScript" value="21" />
+          <entry key="PLAIN_TEXT" value="12" />
+          <entry key="TypeScript" value="1423" />
+          <entry key="TypeScript JSX" value="189" />
+          <entry key="tsconfig" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts">
         <counts>
-          <entry key="TypeScriptServerServiceImpl" value="2" />
+          <entry key="TypeScriptServerServiceImpl" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="gitmodules" value="4" />
-          <entry key="json" value="35" />
-          <entry key="ts" value="8280" />
-          <entry key="tsx" value="3693" />
+          <entry key="json" value="354" />
+          <entry key="md" value="1443" />
+          <entry key="ts" value="29617" />
+          <entry key="tsx" value="10437" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JSON" value="34" />
-          <entry key="PLAIN_TEXT" value="4" />
-          <entry key="TypeScript" value="8280" />
-          <entry key="TypeScript JSX" value="3693" />
-          <entry key="tsconfig" value="1" />
+          <entry key="JSON" value="299" />
+          <entry key="PLAIN_TEXT" value="1447" />
+          <entry key="TypeScript" value="29617" />
+          <entry key="TypeScript JSX" value="10437" />
+          <entry key="tsconfig" value="55" />
         </counts>
       </usages-collector>
     </session>
@@ -113,132 +123,233 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/um-app/src/containers/Authentication/effects/useSignIn.ts">
+        <entry file="file://$PROJECT_DIR$/um-app/src/index.tsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+            <state relative-caret-position="136">
+              <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="20" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/um-app/src/containers/Authentication/api.ts">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/um-app/src/effects/useReducer.ts">
+        <entry file="file://$PROJECT_DIR$/um-app/src/containers/MovieContainer/useMovieBox.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/um-app/src/reducers/arrayReducer.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" column="28" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+            <state relative-caret-position="68">
+              <caret line="4" column="25" lean-forward="true" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitmodules">
+        <entry file="file://$PROJECT_DIR$/um-core/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="603">
+              <caret line="55" column="29" selection-start-line="55" selection-start-column="14" selection-end-line="55" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/um-app/src/containers/Authentication/effects/useSignUp.ts">
+        <entry file="file://$PROJECT_DIR$/um-app/src/App.tsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+            <state relative-caret-position="136">
+              <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/um-app/src/containers/Authentication/effects/useRecoverIdentity.ts">
+        <entry file="file://$PROJECT_DIR$/um-app/src/components/Img.tsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="10" selection-end-column="1" />
+            <state relative-caret-position="238">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/um-app/src/containers/Authentication/effects/useRecoverAccess.ts">
+        <entry file="file://$PROJECT_DIR$/um-app/README.md">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/um-app/src/pages/home/index.ts">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/um-app/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+            <state relative-caret-position="17">
+              <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/um-app/src/containers/MovieContainer/MovieContainer.tsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+                <element signature="e#199#239#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="830">
+              <caret line="103" column="55" selection-start-line="103" selection-start-column="55" selection-end-line="103" selection-end-column="55" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>import { TransitionVisual } from '../transitions/transition';</find>
+      <find>Visual } from '../</find>
+      <find>',</find>
+      <find>'./PropTypes/index'</find>
+      <find>React.HTMLAttributes&lt;</find>
+      <find>React.ReactType</find>
+      <find>ReactType</find>
+      <find>React.ReactNode</find>
+      <find>ReactNode</find>
+      <find>'react'</find>
+      <find>type</find>
+      <find>Handler</find>
+      <find>Animation</find>
+      <find>EventHandler&lt;</find>
+      <find>';</find>
+      <find>import {Visual} from &quot;./primitives&quot;;</find>
+      <find>export default interface extends Visual&lt;&gt; {</find>
+      <find>type: typeof;</find>
+      <find>import { Visual } from './primitives';</find>
+      <find>import { Component } from './primitives/Component';</find>
+      <find>import * as React from 'react';</find>
+      <find>() =&gt; void</find>
+      <find>useRef</find>
+      <find>fetch</find>
+      <find>response.json</find>
+      <find>node-fetch</find>
+      <find>MovieDetails</find>
+      <find>invalidator</find>
+      <find>Loader</find>
+      <find>Image</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>import { StandardVisual } from './StandardVisual';</replace>
+      <replace>StandardVisual</replace>
+      <replace>Visual } from '</replace>
+      <replace>import { TransitionVisual } from './TransitionVisual';</replace>
+      <replace>Visual } from './</replace>
+      <replace>'./PropTypes'</replace>
+      <replace>VisualType</replace>
+      <replace>Node</replace>
+      <replace>export { default as</replace>
+      <replace>Change</replace>
+      <replace>Clipboard</replace>
+      <replace>Composition</replace>
+      <replace>Drag</replace>
+      <replace>Focus</replace>
+      <replace>Form</replace>
+      <replace>Keyboard</replace>
+      <replace>Mouse</replace>
+      <replace>Pointer</replace>
+      <replace>Standard</replace>
+      <replace>Touch</replace>
+      <replace>UI</replace>
+      <replace>Wheel</replace>
+      <replace>Transition</replace>
+      <replace>; };</replace>
+      <replace>import { Visual } from './primitives';</replace>
+      <replace>export default interface Visual extends Visual&lt;&gt; {</replace>
+      <replace>type: typeof Key;</replace>
+      <replace>import { Component, Visual } from './primitives';</replace>
+      <replace />
+      <replace>Movie</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\dev\um\um-app\src\visualization\visuals</dir>
+      <dir>C:\dev\um\um-app\src\view</dir>
+      <dir>C:\dev\um\um-app\src\view\visuals</dir>
+    </dirStrings>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/um-core" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/um-app/src/icons/IconForward.ts" />
-        <option value="$PROJECT_DIR$/um-app/src/icons/IconPlay.tsx" />
-        <option value="$PROJECT_DIR$/um-app/src/icons/IconPause.tsx" />
-        <option value="$PROJECT_DIR$/um-app/src/icons/IconForward.tsx" />
-        <option value="$PROJECT_DIR$/um-app/src/icons/IconBackward.tsx" />
-        <option value="$PROJECT_DIR$/um-app/src/context/index.ts" />
-        <option value="$PROJECT_DIR$/um-app/src/containers/CustomBrowserRouter.tsx" />
-        <option value="$PROJECT_DIR$/um-app/src/context/RouterProvider.tsx" />
-        <option value="$PROJECT_DIR$/um-app/src/effects/usePresenter.ts" />
-        <option value="$PROJECT_DIR$/um-app/src/context/PresenterContext.ts" />
-        <option value="$PROJECT_DIR$/um-app/src/effects/userRouter.ts" />
-        <option value="$PROJECT_DIR$/um-app/src/containers/Carousel/index.ts" />
-        <option value="$PROJECT_DIR$/um-app/src/memos/memoOptions.ts" />
-        <option value="$PROJECT_DIR$/um-app/tsconfig.json" />
-        <option value="$PROJECT_DIR$/um-app/src/components/IconButton.tsx" />
-        <option value="$PROJECT_DIR$/um-app/src/components/SpacerGif.tsx" />
-        <option value="$PROJECT_DIR$/um-app/src/containers/Carousel/Carousel.tsx" />
-        <option value="$PROJECT_DIR$/um-app/src/containers/Carousel/SlideNav.tsx" />
+        <option value="$PROJECT_DIR$/um-react-view/src/form/field/FancyInput.tsx" />
+        <option value="$PROJECT_DIR$/um-app/src/routes/index.ts" />
+        <option value="$PROJECT_DIR$/um-app/src/effects/useGitHubUsers.ts" />
+        <option value="$PROJECT_DIR$/um-react-view/src/window/useWindowWidth.ts" />
         <option value="$PROJECT_DIR$/um-app/src/containers/AppContainer/AppCarousel.tsx" />
-        <option value="$PROJECT_DIR$/um-app/src/components/LinearProgress.tsx" />
-        <option value="$PROJECT_DIR$/um-app/src/containers/Carousel/SlideNavItem.tsx" />
-        <option value="$PROJECT_DIR$/um-app/src/effects/useCarousel.ts" />
-        <option value="$PROJECT_DIR$/um-app/src/containers/Carousel/Slide.tsx" />
-        <option value="$PROJECT_DIR$/um-app/src/effects/useAuthentication.ts" />
-        <option value="$PROJECT_DIR$/um-app/src/components/FormInput.tsx" />
-        <option value="$PROJECT_DIR$/um-app/src/components/Form.tsx" />
-        <option value="$PROJECT_DIR$/um-app/src/components/index.ts" />
-        <option value="$PROJECT_DIR$/um-app/src/containers/Authentication/PasswordReset.tsx" />
-        <option value="$PROJECT_DIR$/um-app/src/containers/Authentication/SignInForm.tsx" />
-        <option value="$PROJECT_DIR$/um-app/src/containers/Authentication/SignUpForm.tsx" />
-        <option value="$PROJECT_DIR$/um-app/src/containers/Authentication/index.ts" />
-        <option value="$PROJECT_DIR$/um-app/src/context/Shell/Shell.tsx" />
-        <option value="$PROJECT_DIR$/um-app/src/context/RouterContext.tsx" />
-        <option value="$PROJECT_DIR$/um-app/src/context/LocaleContext.ts" />
-        <option value="$PROJECT_DIR$/um-app/src/context/ThemeContext.ts" />
-        <option value="$PROJECT_DIR$/um-app/src/containers/Authentication/RecoverUserForm.tsx" />
-        <option value="$PROJECT_DIR$/um-app/src/containers/Authentication/RecoverAccessForm.tsx" />
-        <option value="$PROJECT_DIR$/um-app/src/components/Alert.tsx" />
-        <option value="$PROJECT_DIR$/um-app/src/components/Row.tsx" />
+        <option value="$PROJECT_DIR$/um-app/src/containers/MovieContainer/MovieContainer.ts" />
+        <option value="$PROJECT_DIR$/um-app/src/containers/MovieContainer/data.ts" />
+        <option value="$PROJECT_DIR$/um-app/src/containers/MovieContainer/api/data.ts" />
+        <option value="$PROJECT_DIR$/um-core/src/data/fetch/index.ts" />
+        <option value="$PROJECT_DIR$/um-app/tsconfig.json" />
+        <option value="$PROJECT_DIR$/um-app/src/containers/MovieContainer/useMovieReview.ts" />
+        <option value="$PROJECT_DIR$/um-app/src/containers/MovieContainer/Movie.ts" />
+        <option value="$PROJECT_DIR$/um-app/src/containers/MovieContainer/useMovies.ts" />
+        <option value="$PROJECT_DIR$/um-app/src/containers/MovieContainer/useMovieDetails.ts" />
+        <option value="$PROJECT_DIR$/um-app/src/containers/MovieContainer/MovieMetrics.tsx" />
+        <option value="$PROJECT_DIR$/um-app/src/containers/MovieContainer/useMovieState.ts" />
+        <option value="$PROJECT_DIR$/um-app/typings/global.d.ts" />
+        <option value="$PROJECT_DIR$/um-core/src/data/context/index.ts" />
+        <option value="$PROJECT_DIR$/um-core/src/data/context/Data.ts" />
         <option value="$PROJECT_DIR$/um-app/src/effects/useForm.ts" />
-        <option value="$PROJECT_DIR$/um-app/src/containers/Authentication/index.tsx" />
-        <option value="$PROJECT_DIR$/um-app/src/containers/Authentication/effects/useUpdateSecret.ts" />
-        <option value="$PROJECT_DIR$/um-app/src/containers/Authentication/effects/useSignUp.ts" />
-        <option value="$PROJECT_DIR$/um-app/src/containers/Authentication/effects/useSignIn.ts" />
-        <option value="$PROJECT_DIR$/um-app/src/containers/Authentication/effects/useRecoverIdentity.ts" />
-        <option value="$PROJECT_DIR$/um-app/src/containers/Authentication/effects/useRecoverAccess.ts" />
-        <option value="$PROJECT_DIR$/tslint.json" />
-        <option value="$PROJECT_DIR$/um-app/src/effects/useReducer.ts" />
-        <option value="$PROJECT_DIR$/um-app/src/reducers/queueReducer.ts" />
-        <option value="$PROJECT_DIR$/um-app/src/reducers/arrayReducer.ts" />
-        <option value="$PROJECT_DIR$/.gitmodules" />
+        <option value="$PROJECT_DIR$/um-app/src/context/RouterProvider.tsx" />
+        <option value="$PROJECT_DIR$/um-app/src/routes/index.tsx" />
+        <option value="$PROJECT_DIR$/um-app/src/providers/RouterProvider.tsx" />
+        <option value="$PROJECT_DIR$/um-app/src/effects/userRouter.ts" />
+        <option value="$PROJECT_DIR$/um-app/src/context/RouterContext.tsx" />
+        <option value="$PROJECT_DIR$/um-app/src/containers/MovieContainer/useMovie.ts" />
+        <option value="$PROJECT_DIR$/um-app/src/context/PresenterContext.ts" />
+        <option value="$PROJECT_DIR$/um-app/src/components/Spinner.tsx" />
+        <option value="$PROJECT_DIR$/um-core/README.md" />
+        <option value="$PROJECT_DIR$/um-app/src/containers/MovieContainer/useMovieBox.ts" />
+        <option value="$PROJECT_DIR$/um-app/src/cache/indext.ts" />
+        <option value="$PROJECT_DIR$/um-app/src/containers/MovieContainer/MovieListPage.tsx" />
+        <option value="$PROJECT_DIR$/um-core/src/epics/intervalEpic.ts" />
+        <option value="$PROJECT_DIR$/um-core/src/epics/rotateEpic.ts" />
+        <option value="$PROJECT_DIR$/um-core/src/data/createFetcher.ts" />
+        <option value="$PROJECT_DIR$/um-app/src/containers/MovieContainer/MoviePage.tsx" />
+        <option value="$PROJECT_DIR$/um-app/src/containers/MovieContainer/MovieDetails.tsx" />
+        <option value="$PROJECT_DIR$/um-app/src/containers/MovieContainer/MovieReview.tsx" />
+        <option value="$PROJECT_DIR$/um-app/src/containers/MovieContainer/MoviePoster.tsx" />
+        <option value="$PROJECT_DIR$/um-app/src/containers/MovieContainer/MovieContainer.tsx" />
+        <option value="$PROJECT_DIR$/um-app/src/pages/Home/Container.tsx" />
+        <option value="$PROJECT_DIR$/um-app/src/pages/Home/index.ts" />
+        <option value="$PROJECT_DIR$/um-app/src/pages/index.ts" />
+        <option value="$PROJECT_DIR$/um-app/src/components/SwapInImage.ts" />
+        <option value="$PROJECT_DIR$/um-app/src/components/SwapInImage.tsx" />
+        <option value="$PROJECT_DIR$/um-app/src/pages/home/Container.tsx" />
+        <option value="$PROJECT_DIR$/um-app/src/components/Img.tsx" />
+        <option value="$PROJECT_DIR$/um-app/src/App.tsx" />
+        <option value="$PROJECT_DIR$/um-app/src/index.tsx" />
+        <option value="$PROJECT_DIR$/um-app/package.json" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -249,21 +360,28 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
     <handled-path value="$PROJECT_DIR$/um-app/node_modules" />
+    <handled-path value="$PROJECT_DIR$/um-core/node_modules" />
+    <handled-path value="$PROJECT_DIR$/um-react-view/node_modules" />
+    <handled-path value="$PROJECT_DIR$/um-shell/node_modules" />
   </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
       <path value="$PROJECT_DIR$/um-app/package.json" />
       <path value="$PROJECT_DIR$/um-core/package.json" />
       <path value="$PROJECT_DIR$/um-logo/package.json" />
       <path value="$PROJECT_DIR$/um-plot/package.json" />
+      <path value="$PROJECT_DIR$/um-react-view/package.json" />
+      <path value="$PROJECT_DIR$/um-shell/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="3832" />
-    <option name="y" value="-395" />
-    <option name="width" value="1096" />
-    <option name="height" value="1896" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="2724" />
+    <option name="y" value="191" />
+    <option name="width" value="1103" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -271,6 +389,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -278,30 +397,44 @@
               <item name="um" type="b2602c69:ProjectViewProjectNode" />
               <item name="um" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="um" type="b2602c69:ProjectViewProjectNode" />
+              <item name="um" type="462c0819:PsiDirectoryNode" />
+              <item name="um-app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="um" type="b2602c69:ProjectViewProjectNode" />
+              <item name="um" type="462c0819:PsiDirectoryNode" />
+              <item name="um-core" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../ntt" />
-    <property name="ts.external.directory.path" value="C:\dev\um\um-ml\node_modules\typescript\lib" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.TypeScript" />
+    <property name="ts.external.directory.path" value="C:\dev\um\um-core\node_modules\typescript\lib" />
+    <property name="typescript-compiler-editor-notification" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\dev\um\um-app\src\components" />
-      <recent name="C:\dev\um\um-app\src\context" />
-      <recent name="C:\dev\um\um-app\src\RouterProvider" />
-      <recent name="C:\dev\um\um-app\src\visualization\material-ui" />
-      <recent name="C:\dev\um\um-app\src\visualization\visuals" />
+      <recent name="C:\dev\um\um-app\src\providers" />
+      <recent name="C:\dev\um\um-app\src\containers\MovieContainer\api" />
+      <recent name="C:\dev\um\um-app\src\containers\Carousel" />
+      <recent name="C:\dev\um\um-react-view\src" />
+      <recent name="C:\dev\um\um-react-view\src\view" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\dev\um" />
-      <recent name="C:\dev\um\um-app\src\containers\Authentication" />
-      <recent name="C:\dev\um\um-app\src\context" />
+      <recent name="C:\dev\um\um-app\src\containers\MovieContainer" />
+      <recent name="C:\dev\um\um-react-view\src\window" />
+      <recent name="C:\dev\um\um-react-view" />
+      <recent name="C:\dev\um\um-react-view\src\zoom" />
+      <recent name="C:\dev\um\um-react-view\src\tree" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -327,22 +460,26 @@
       <option name="presentableId" value="Default" />
       <updated>1541520925567</updated>
       <workItem from="1541520931430" duration="22102000" />
-      <workItem from="1541549336504" duration="12688000" />
+      <workItem from="1541549336504" duration="89027000" />
+      <workItem from="1541799794337" duration="2856000" />
+      <workItem from="1542040536834" duration="44180000" />
+      <workItem from="1542233057752" duration="25214000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34790000" />
+    <option name="totallyTimeSpent" value="183379000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="3832" y="-395" width="1096" height="1896" extended-state="6" />
+    <frame x="2724" y="191" width="1103" height="1040" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49943247" visible="true" weight="0.35727787" />
-      <window_info id="Structure" order="1" sideWeight="0.50056756" side_tool="true" visible="true" weight="0.35727787" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5715835" visible="true" weight="0.27605635" />
+      <window_info id="Structure" order="1" sideWeight="0.4284165" side_tool="true" weight="0.34457323" />
       <window_info id="Favorites" order="2" side_tool="true" weight="0.32986766" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.3290993" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.46529284" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32973894" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -357,12 +494,12 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35727787" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5715835" visible="true" weight="0.34457323" />
+      <window_info id="Structure" order="1" sideWeight="0.4284165" side_tool="true" weight="0.34457323" />
+      <window_info id="Favorites" order="2" side_tool="true" weight="0.32986766" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.3290993" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.46529284" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32973894" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -383,210 +520,82 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/um-app/src/visualization/visuals/index.ts</url>
-          <line>34</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/um-app/src/icons/index.ts">
+    <entry file="file://$PROJECT_DIR$/um-core/src/data/context/Data.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/um-app/src/containers/MovieContainer/MovieMetrics.tsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
-          <caret line="3" column="49" selection-start-line="3" selection-start-column="49" selection-end-line="3" selection-end-column="49" />
+          <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/um-app/package.json">
+    <entry file="file://$PROJECT_DIR$/um-core/src/data/fetch/index.ts" />
+    <entry file="file://$PROJECT_DIR$/um-app/src/containers/AppContainer/AppContainer.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1020" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/um-app/src/memos/memoOptions.tsq">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/um-app/src/context/index.ts">
+    <entry file="file://$PROJECT_DIR$/um-app/src/effects/useForm.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="51">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/um-app/src/effects/usePresenter.ts">
+    <entry file="file://$PROJECT_DIR$/um-app/node_modules/@types/history/index.d.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        <state relative-caret-position="102">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/um-app/src/routes/index.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/um-app/src/containers/MovieContainer/useMovie.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="15" column="14" selection-start-line="9" selection-start-column="12" selection-end-line="15" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#47#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/um-app/src/context/PresenterContext.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/um-app/src/memos/memoOptions.tsq">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/um-app/tsconfig.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/um-app/src/containers/Carousel/index.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="49" selection-start-column="49" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/um-app/src/components/IconButton.tsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="12" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/um-app/src/components/SpacerGif.tsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/um-app/src/containers/Carousel/Carousel.tsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/um-app/src/containers/Carousel/SlideNav.tsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="11" lean-forward="true" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/um-app/src/containers/AppContainer/AppCarousel.tsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1105">
-          <caret line="65" column="24" lean-forward="true" selection-start-line="65" selection-start-column="24" selection-end-line="65" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/um-app/src/components/LinearProgress.tsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/um-app/src/containers/Carousel/SlideNavItem.tsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/um-app/src/effects/useCarousel.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="653">
-          <caret line="53" column="35" selection-start-line="53" selection-start-column="35" selection-end-line="53" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/um-app/src/context/Shell/reducer.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
-          <caret line="43" column="31" lean-forward="true" selection-start-line="43" selection-start-column="31" selection-end-line="43" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/um-app/src/context/RouterProvider.tsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="20" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="13" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/um-app/src/effects/useAuthentication.ts">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/um-app/src/containers/Carousel/Slide.tsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="36" lean-forward="true" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
+          <caret line="1" column="32" selection-start-column="7" selection-end-line="1" selection-end-column="32" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/um-app/src/containers/Carousel/Controls.tsx">
+    <entry file="file://$PROJECT_DIR$/um-app/src/components/Spinner.tsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="75" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="75" />
+        <state relative-caret-position="68">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/um-app/src/components/FormInput.tsx">
+    <entry file="file://$PROJECT_DIR$/um-app/src/providers/RouterProvider.tsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/um-app/src/components/index.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/um-app/src/context/Shell/index.ts">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/um-app/src/components/Form.tsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="2" lean-forward="true" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/um-app/src/effects/userRouter.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/um-app/src/context/Shell/Shell.tsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+        <state relative-caret-position="255">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
           </folding>
@@ -595,160 +604,275 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/um-app/src/context/RouterContext.tsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="38" />
+        <state relative-caret-position="119">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#0#47#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/um-app/src/context/LocaleContext.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/um-app/src/context/ThemeContext.ts">
+    <entry file="file://$PROJECT_DIR$/um-app/src/effects/userRouter.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <caret line="7" column="5" selection-start-line="5" selection-start-column="4" selection-end-line="7" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/um-app/src/containers/Authentication/SignInForm.tsx">
+    <entry file="file://$PROJECT_DIR$/um-app/node_modules/@types/react-router/index.d.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="31" />
+        <state relative-caret-position="1088">
+          <caret line="87" column="17" selection-start-line="87" selection-start-column="17" selection-end-line="87" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/um-app/src/containers/Authentication/SignUpForm.tsx">
+    <entry file="file://$PROJECT_DIR$/um-core/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/um-core/node_modules/simple-cache-provider/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/um-core/node_modules/simple-cache-provider/cjs/simple-cache-provider.development.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="47">
+          <caret line="55" column="27" selection-start-line="55" selection-start-column="27" selection-end-line="55" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/um-app/node_modules/ntt-flow/dist/typings/index.d.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="6" column="21" lean-forward="true" selection-end-line="8" selection-end-column="2" />
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/um-app/src/containers/Authentication/RecoverIdentityForm.tsx">
+    <entry file="file://$PROJECT_DIR$/um-app/src/cache/indext.tsy">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+        <state relative-caret-position="1962">
+          <caret line="374" column="55" selection-start-line="374" selection-start-column="55" selection-end-line="374" selection-end-column="55" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/um-app/src/containers/Authentication/UpdateSecretForm.tsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/um-core/src/actions/types.ts">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/um-app/src/containers/Authentication/RecoverAccessForm.tsx">
+    <entry file="file://$PROJECT_DIR$/um-core/src/epics/intervalEpic.tsy">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/um-app/src/components/Alert.tsx">
+    <entry file="file://$PROJECT_DIR$/um-core/src/epics/rotateEpic.tsy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/um-core/src/data/createFetcher.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret selection-end-line="10" selection-end-column="1" />
+          <caret column="3" selection-start-column="3" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/um-app/src/components/Row.tsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/um-core/src/epics/pingEpic.tsy">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/um-app/src/effects/useForm.ts">
+    <entry file="file://$PROJECT_DIR$/um-app/src/containers/MovieContainer/MovieListPage.tsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="21" column="6" lean-forward="true" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/um-app/src/containers/Authentication/index.tsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+        <state relative-caret-position="119">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/um-app/src/containers/Authentication/effects/useUpdateSecret.ts">
+    <entry file="file://$PROJECT_DIR$/um-app/src/containers/MovieContainer/MovieDetails.tsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="8" selection-end-column="6" />
+        <state relative-caret-position="187">
+          <caret line="11" column="42" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tslint.json">
+    <entry file="file://$PROJECT_DIR$/um-app/src/containers/MovieContainer/MovieReview.tsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        <state relative-caret-position="17">
+          <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/um-app/src/containers/Authentication/effects/useRecoverAccess.ts">
+    <entry file="file://$PROJECT_DIR$/um-app/src/containers/MovieContainer/MoviePage.tsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        <state relative-caret-position="136">
+          <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/um-app/src/containers/Authentication/effects/useRecoverIdentity.ts">
+    <entry file="file://$PROJECT_DIR$/um-app/node_modules/@types/react/global.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="88" column="10" selection-start-line="88" selection-start-column="10" selection-end-line="88" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/typings/global.d.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/um-app/typings/index.d.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret selection-end-line="10" selection-end-column="1" />
+          <caret selection-end-column="73" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/um-app/src/containers/Authentication/effects/useSignUp.ts">
+    <entry file="file://$PROJECT_DIR$/typings/index.d.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-        </state>
+        <state relative-caret-position="-44" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/um-app/src/containers/Authentication/effects/useSignIn.ts">
+    <entry file="file://$PROJECT_DIR$/um-app/node_modules/@types/react/index.d.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        <state relative-caret-position="39219">
+          <caret line="2330" column="20" selection-start-line="2330" selection-start-column="14" selection-end-line="2330" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/um-app/src/containers/Authentication/api.ts">
+    <entry file="file://$PROJECT_DIR$/um-core/node_modules/typescript/lib/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-831">
+          <caret line="6551" column="10" selection-start-line="6551" selection-start-column="10" selection-end-line="6551" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/um-app/src/containers/MovieContainer/MoviePoster.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/um-app/src/App.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/um-app/src/effects/useReducer.ts">
+    <entry file="file://$PROJECT_DIR$/um-app/src/pages/home">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/um-app/src/components/SwapInImage.tsx">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/um-app/src/pages/index.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/um-app/src/pages/home/Container.tsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        <state relative-caret-position="221">
+          <caret line="13" column="64" selection-start-line="13" selection-start-column="64" selection-end-line="13" selection-end-column="64" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/um-app/src/reducers/arrayReducer.ts">
+    <entry file="file://$PROJECT_DIR$/um-app/README.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/um-app/src/App.tsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="28" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+        <state relative-caret-position="136">
+          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/um-base/src/actions/arithmetic/increment.ts">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/um-base/src/actions/arithmetic/decrement.ts">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitmodules">
+    <entry file="file://$PROJECT_DIR$/um-app/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="17">
+          <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/um-app/src/pages/home/index.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/um-app/src/components/Img.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/um-app/src/index.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="830">
+          <caret line="103" column="55" selection-start-line="103" selection-start-column="55" selection-end-line="103" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/um-app/src/containers/MovieContainer/MovieContainer.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+            <element signature="e#199#239#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/um-app/src/containers/MovieContainer/useMovieBox.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="25" lean-forward="true" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/um-core/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="603">
+          <caret line="55" column="29" selection-start-line="55" selection-start-column="14" selection-end-line="55" selection-end-column="29" />
         </state>
       </provider>
     </entry>

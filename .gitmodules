@@ -16,3 +16,9 @@
 [submodule "um-material-ui"]
 	path = um-material-ui
 	url = https://github.com/umbiliko/um-material-ui.git
+[submodule "um-shell"]
+	path = um-shell
+	url = https://github.com/umbiliko/um-shell.git
+[submodule "um-react-vis"]
+	path = um-react-vis
+	url = https://github.com/umbiliko/um-react-vis.git

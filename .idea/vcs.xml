@@ -13,6 +13,8 @@
     <mapping directory="$PROJECT_DIR$/um-ml" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/um-plot" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/um-pod" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/um-react-view" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/um-shell" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/um-ts" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/um-ui" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/um-ux" vcs="Git" />
