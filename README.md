@@ -16,7 +16,7 @@ git submodule add https://github.com/umbiliko/um-core-pod.git
 ## React sub-module initialization
 
 ```
-git submodule add https://github.com/umbiliko/um-react-adn.git
+git submodule add https://github.com/umbiliko/um-react-adm.git
 git submodule add https://github.com/umbiliko/um-react-app.git
 git submodule add https://github.com/umbiliko/um-react-core.git
 git submodule add https://github.com/umbiliko/um-react-logo.git
