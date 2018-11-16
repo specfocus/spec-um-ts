@@ -35,3 +35,6 @@
 [submodule "um-react-adm"]
 	path = um-react-adm
 	url = https://github.com/umbiliko/um-react-adm.git
+[submodule "um-react-core"]
+	path = um-react-core
+	url = https://github.com/umbiliko/um-react-core.git
