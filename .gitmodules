@@ -23,3 +23,12 @@
 [submodule "um-react-vis"]
 	path = um-react-vis
 	url = https://github.com/umbiliko/um-react-vis.git
+[submodule "um-react-view"]
+	path = um-react-view
+	url = https://github.com/umbiliko/um-react-view.git
+[submodule "um-grommet"]
+	path = um-grommet
+	url = https://github.com/umbiliko/um-grommet.git
+[submodule "um-material-ui"]
+	path = um-material-ui
+	url = https://github.com/umbiliko/um-material-ui.git
