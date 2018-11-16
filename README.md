@@ -1,12 +1,13 @@
 # um
 User Module cental module with all sub-modules
 
-![Diagram](diagram.png)
+![Diagram](https://raw.githubusercontent.com/umbiliko/um/master/diagram.svg)
 
 
 ## Core sub-module initialization
 
 ```
+git submodule add https://github.com/umbiliko/um-core-auth.git
 git submodule add https://github.com/umbiliko/um-core-flow.git
 git submodule add https://github.com/umbiliko/um-core-hub.git
 git submodule add https://github.com/umbiliko/um-core-pod.git
@@ -15,6 +16,7 @@ git submodule add https://github.com/umbiliko/um-core-pod.git
 ## React sub-module initialization
 
 ```
+git submodule add https://github.com/umbiliko/um-react-adn.git
 git submodule add https://github.com/umbiliko/um-react-app.git
 git submodule add https://github.com/umbiliko/um-react-core.git
 git submodule add https://github.com/umbiliko/um-react-logo.git
