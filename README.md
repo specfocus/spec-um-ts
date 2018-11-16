@@ -6,15 +6,21 @@ User Module cental module with all sub-modules
 
 ## Sub-module initialization
 ```
-git submodule add https://github.com/umbiliko/um-app.git
-git submodule add https://github.com/umbiliko/um-core.git
-git submodule add https://github.com/umbiliko/um-dir.git
-git submodule add https://github.com/umbiliko/um-logo.git
-git submodule add https://github.com/umbiliko/um-material-ui.git
-git submodule add https://github.com/umbiliko/um-plot.git
-git submodule add https://github.com/umbiliko/um-shell.git
+git submodule add https://github.com/umbiliko/um-core-dir.git
+git submodule add https://github.com/umbiliko/um-react-app.git
+git submodule add https://github.com/umbiliko/um-react-core.git
+git submodule add https://github.com/umbiliko/um-react-logo.git
+git submodule add https://github.com/umbiliko/um-react-shell.git
+git submodule add https://github.com/umbiliko/um-react-view.git
+git submodule add https://github.com/umbiliko/um-react-vis.git
 
 git submodule update --init
+```
+
+## Plugin sub-modules
+```
+git submodule add https://github.com/umbiliko/um-groomet.git
+git submodule add https://github.com/umbiliko/um-material-ui.git
 ```
 
 ## Commit submodule
