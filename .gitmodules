@@ -1,21 +1,25 @@
-[submodule "um-material-ui"]
-	path = um-material-ui
-	url = https://github.com/umbiliko/um-material-ui.git
+
+[submodule "um-core-flow"]
+	path = um-core-flow
+	url = https://github.com/umbiliko/um-core-flow.git
+[submodule "um-core-hub"]
+	path = um-core-hub
+	url = https://github.com/umbiliko/um-core-hub.git
+[submodule "um-core-pod"]
+	path = um-core-pod
+	url = https://github.com/umbiliko/um-core-pod.git
 [submodule "um-react-app"]
 	path = um-react-app
 	url = https://github.com/umbiliko/um-react-app.git
-[submodule "um-react-core"]
-	path = um-react-core
-	url = https://github.com/umbiliko/um-react-core.git
+[submodule "um-core-auth"]
+	path = um-core-auth
+	url = https://github.com/umbiliko/um-core-auth.git
 [submodule "um-react-logo"]
 	path = um-react-logo
 	url = https://github.com/umbiliko/um-react-logo.git
 [submodule "um-react-shell"]
 	path = um-react-shell
 	url = https://github.com/umbiliko/um-react-shell.git
-[submodule "um-react-view"]
-	path = um-react-view
-	url = https://github.com/umbiliko/um-react-view.git
 [submodule "um-react-vis"]
 	path = um-react-vis
 	url = https://github.com/umbiliko/um-react-vis.git
