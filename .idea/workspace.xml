@@ -2,22 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0eae75c-7bcd-41dd-a889-f6b74279679c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/um-plot/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/um-plot/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/um-plot/src/actions/multiplyIn.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/um-plot/src/actions/reflectIn.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/um-plot/src/actions/rotateIn.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/um-plot/src/actions/translateIn.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/um-plot/src/constants/actions.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/um-plot/src/definitions/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/um-plot/src/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/um-plot/src/operations.ts/multiplication.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/um-plot/src/operations.ts/reflection.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/um-plot/src/operations.ts/rotation.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/um-plot/src/operations.ts/translation.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/um-plot/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/um-plot/tslint.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/um-react-view/src/appbar/index.ts" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/um-react-view/src/data/loader/Loader.tsx" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/um-react-view/src/form/field/FancyInput.tsx" afterDir="false" />
@@ -26,22 +10,28 @@
       <change afterPath="$PROJECT_DIR$/um-react-view/src/window/index.ts" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/um-react-view/src/window/useWindow.ts" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/um-react-view/src/window/useWindowWidth.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/um-shell" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitmodules" beforeDir="false" afterPath="$PROJECT_DIR$/.gitmodules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/um-react-vis/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/um-react-vis/src/actions/multiplyIn.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/um-react-vis/src/actions/reflectIn.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/um-react-vis/src/actions/rotateIn.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/um-react-vis/src/actions/translateIn.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/um-react-vis/src/constants/actions.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/um-react-vis/src/definitions/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/um-react-vis/src/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/um-react-vis/src/operations.ts/multiplication.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/um-react-vis/src/operations.ts/reflection.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/um-react-vis/src/operations.ts/rotation.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/um-react-vis/src/operations.ts/translation.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/um-react-vis/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/um-react-vis/tslint.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/um-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/um-app/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/um-app/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/um-app/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/um-app/src/components/Img.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/um-app/src/components/Img.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/um-app/src/containers/MovieContainer/useMovieBox.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-app/src/containers/MovieContainer/useMovieBox.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/um-app/src/effects/useMedia.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-app/src/effects/useMedia.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/um-app/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/um-app/src/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/um-core/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/um-core/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/um-core/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/um-core/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-app" beforeDir="false" afterPath="$PROJECT_DIR$/um-app" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-core" beforeDir="false" afterPath="$PROJECT_DIR$/um-core" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/um-logo" beforeDir="false" afterPath="$PROJECT_DIR$/um-logo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/um-logo/typings/globals.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-logo/typings/globals.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/um-plot" beforeDir="false" afterPath="$PROJECT_DIR$/um-plot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-plot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-view" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-view" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-vis" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-vis" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -138,7 +128,7 @@
         <entry file="file://$PROJECT_DIR$/um-app/src/containers/MovieContainer/useMovieBox.ts">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
-              <caret line="4" column="25" lean-forward="true" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+              <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -149,8 +139,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/um-core/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="603">
-              <caret line="55" column="29" selection-start-line="55" selection-start-column="14" selection-end-line="55" selection-end-column="29" />
+            <state relative-caret-position="731">
+              <caret line="43" column="8" selection-start-line="43" selection-start-column="8" selection-end-line="43" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -171,7 +161,7 @@
         <entry file="file://$PROJECT_DIR$/um-app/src/components/Img.tsx">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
               </folding>
@@ -215,7 +205,7 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="830">
-              <caret line="103" column="55" selection-start-line="103" selection-start-column="55" selection-end-line="103" selection-end-column="55" />
+              <caret line="100" column="55" selection-start-line="100" selection-start-column="55" selection-end-line="100" selection-end-column="55" />
             </state>
           </provider>
         </entry>
@@ -363,7 +353,9 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
     <handled-path value="$PROJECT_DIR$/um-app/node_modules" />
     <handled-path value="$PROJECT_DIR$/um-core/node_modules" />
+    <handled-path value="$PROJECT_DIR$/um-logo/node_modules" />
     <handled-path value="$PROJECT_DIR$/um-react-view/node_modules" />
+    <handled-path value="$PROJECT_DIR$/um-react-vis/node_modules" />
     <handled-path value="$PROJECT_DIR$/um-shell/node_modules" />
   </component>
   <component name="NodePackageJsonFileManager">
@@ -372,16 +364,16 @@
       <path value="$PROJECT_DIR$/um-app/package.json" />
       <path value="$PROJECT_DIR$/um-core/package.json" />
       <path value="$PROJECT_DIR$/um-logo/package.json" />
-      <path value="$PROJECT_DIR$/um-plot/package.json" />
       <path value="$PROJECT_DIR$/um-react-view/package.json" />
+      <path value="$PROJECT_DIR$/um-react-vis/package.json" />
       <path value="$PROJECT_DIR$/um-shell/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="2724" />
-    <option name="y" value="191" />
-    <option name="width" value="1103" />
-    <option name="height" value="1040" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="3832" />
+    <option name="y" value="-395" />
+    <option name="width" value="1096" />
+    <option name="height" value="1896" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -401,6 +393,26 @@
               <item name="um" type="b2602c69:ProjectViewProjectNode" />
               <item name="um" type="462c0819:PsiDirectoryNode" />
               <item name="um-app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="um" type="b2602c69:ProjectViewProjectNode" />
+              <item name="um" type="462c0819:PsiDirectoryNode" />
+              <item name="um-app" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="um" type="b2602c69:ProjectViewProjectNode" />
+              <item name="um" type="462c0819:PsiDirectoryNode" />
+              <item name="um-app" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="stream-shift" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="um" type="b2602c69:ProjectViewProjectNode" />
+              <item name="um" type="462c0819:PsiDirectoryNode" />
+              <item name="um-app" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="the-platform" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="um" type="b2602c69:ProjectViewProjectNode" />
@@ -463,18 +475,17 @@
       <workItem from="1541549336504" duration="89027000" />
       <workItem from="1541799794337" duration="2856000" />
       <workItem from="1542040536834" duration="44180000" />
-      <workItem from="1542233057752" duration="25214000" />
+      <workItem from="1542233057752" duration="26292000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="183379000" />
+    <option name="totallyTimeSpent" value="184457000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2724" y="191" width="1103" height="1040" extended-state="0" />
-    <editor active="true" />
+    <frame x="3832" y="-395" width="1096" height="1896" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5715835" visible="true" weight="0.27605635" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5715835" visible="true" weight="0.27788278" />
       <window_info id="Structure" order="1" sideWeight="0.4284165" side_tool="true" weight="0.34457323" />
       <window_info id="Favorites" order="2" side_tool="true" weight="0.32986766" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -824,7 +835,7 @@
     <entry file="file://$PROJECT_DIR$/um-app/src/components/Img.tsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
           </folding>
@@ -844,7 +855,7 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="830">
-          <caret line="103" column="55" selection-start-line="103" selection-start-column="55" selection-end-line="103" selection-end-column="55" />
+          <caret line="100" column="55" selection-start-line="100" selection-start-column="55" selection-end-line="100" selection-end-column="55" />
         </state>
       </provider>
     </entry>
@@ -862,7 +873,7 @@
     <entry file="file://$PROJECT_DIR$/um-app/src/containers/MovieContainer/useMovieBox.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" column="25" lean-forward="true" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
@@ -871,8 +882,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/um-core/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="603">
-          <caret line="55" column="29" selection-start-line="55" selection-start-column="14" selection-end-line="55" selection-end-column="29" />
+        <state relative-caret-position="731">
+          <caret line="43" column="8" selection-start-line="43" selection-start-column="8" selection-end-line="43" selection-end-column="8" />
         </state>
       </provider>
     </entry>
