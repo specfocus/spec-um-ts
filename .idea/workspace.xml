@@ -2,35 +2,173 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0eae75c-7bcd-41dd-a889-f6b74279679c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/um-react-view/src/appbar/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/um-react-view/src/data/loader/Loader.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/um-react-view/src/form/field/FancyInput.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/um-react-view/src/spinner/Spinner.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/um-react-view/src/spinner/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/um-react-view/src/window/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/um-react-view/src/window/useWindow.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/um-react-view/src/window/useWindowWidth.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/um-react-vis/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/um-react-vis/src/actions/multiplyIn.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/um-react-vis/src/actions/reflectIn.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/um-react-vis/src/actions/rotateIn.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/um-react-vis/src/actions/translateIn.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/um-react-vis/src/constants/actions.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/um-react-vis/src/definitions/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/um-react-vis/src/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/um-react-vis/src/operations.ts/multiplication.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/um-react-vis/src/operations.ts/reflection.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/um-react-vis/src/operations.ts/rotation.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/um-react-vis/src/operations.ts/translation.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/um-react-vis/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/um-react-vis/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/um-react-app/src/containers/app/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/um-react-app/src/pages/movie/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/um-react-app/src/pages/movie/useMovieList.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/um-react-logo/src/effects/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/um-react-logo/src/effects/useLogo.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/um-react-view/src/ux/layout/Carousel/reducer.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/um-app" beforeDir="false" afterPath="$PROJECT_DIR$/um-app" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/um-core" beforeDir="false" afterPath="$PROJECT_DIR$/um-core" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/um-logo" beforeDir="false" afterPath="$PROJECT_DIR$/um-logo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/um-plot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-core-auth" beforeDir="false" afterPath="$PROJECT_DIR$/um-core-auth" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-core-auth/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/um-core-auth/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-core-auth/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/um-core-auth/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-core-flow" beforeDir="false" afterPath="$PROJECT_DIR$/um-core-flow" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-core-flow/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/um-core-flow/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-core-flow/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/um-core-flow/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-core-hub" beforeDir="false" afterPath="$PROJECT_DIR$/um-core-hub" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-core-hub/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/um-core-hub/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-core-hub/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/um-core-hub/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-grommet" beforeDir="false" afterPath="$PROJECT_DIR$/um-grommet" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-grommet/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/um-grommet/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-grommet/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/um-grommet/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-material-ui" beforeDir="false" afterPath="$PROJECT_DIR$/um-material-ui" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-material-ui/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/um-material-ui/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-material-ui/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/um-material-ui/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-app" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-app" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-app/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-app/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-app/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-app/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-app/src/components/Spinner.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-app/src/components/Spinner.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-app/src/components/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-app/src/components/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-app/src/containers/AppContainer/AppContainer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-app/src/containers/app/Container.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-app/src/containers/AppContainer/actions.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-app/src/containers/app/actions.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-app/src/containers/AppContainer/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-app/src/containers/AppContainer/reducer.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-app/src/containers/Authentication/RecoverAccessForm.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-app/src/containers/auth/RecoverAccessForm.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-app/src/containers/Authentication/RecoverIdentityForm.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-app/src/containers/auth/RecoverIdentityForm.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-app/src/containers/Authentication/SignInForm.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-app/src/containers/auth/SignInForm.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-app/src/containers/Authentication/SignUpForm.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-app/src/containers/auth/SignUpForm.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-app/src/containers/Authentication/UpdateSecretForm.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-app/src/containers/auth/UpdateSecretForm.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-app/src/containers/Authentication/api.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-app/src/containers/auth/api.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-app/src/containers/Authentication/effects/useRecoverAccess.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-app/src/containers/auth/effects/useRecoverAccess.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-app/src/containers/Authentication/effects/useRecoverIdentity.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-app/src/containers/auth/effects/useRecoverIdentity.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-app/src/containers/Authentication/effects/useSignIn.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-app/src/containers/auth/effects/useSignIn.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-app/src/containers/Authentication/effects/useSignUp.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-app/src/containers/auth/effects/useSignUp.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-app/src/containers/Authentication/effects/useUpdateSecret.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-app/src/containers/auth/effects/useUpdateSecret.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-app/src/containers/Authentication/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-app/src/containers/auth/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-app/src/containers/MovieContainer/Movie.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-app/src/pages/movie/Movie.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-app/src/containers/MovieContainer/MovieContainer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-app/src/pages/movie/Container.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-app/src/containers/MovieContainer/MovieDetails.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-app/src/pages/movie/MovieDetails.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-app/src/containers/MovieContainer/MovieListPage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-app/src/pages/movie/MovieListPage.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-app/src/containers/MovieContainer/MovieMetrics.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-app/src/pages/movie/MovieMetrics.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-app/src/containers/MovieContainer/MoviePage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-app/src/pages/movie/MoviePage.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-app/src/containers/MovieContainer/MoviePoster.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-app/src/pages/movie/MoviePoster.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-app/src/containers/MovieContainer/MovieReview.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-app/src/pages/movie/MovieReview.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-app/src/containers/MovieContainer/api/data.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-app/src/pages/movie/api/data.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-app/src/containers/MovieContainer/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-app/src/containers/ux/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-app/src/containers/MovieContainer/useMovie.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-app/src/pages/movie/useMovie.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-app/src/containers/MovieContainer/useMovieBox.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-app/src/pages/movie/useMovieBox.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-app/src/containers/MovieContainer/useMovieList.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-app/src/containers/MovieContainer/useMovieReview.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-app/src/pages/movie/useMovieReview.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-app/src/containers/app/AppCarousel.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-app/src/containers/ux/Carousel/Container.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-app/src/containers/ux/Carousel/Controls.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-app/src/containers/ux/Carousel/Slide.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-app/src/containers/ux/Carousel/SlideNav.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-app/src/containers/ux/Carousel/SlideNavItem.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-app/src/containers/ux/Carousel/Slides.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-app/src/containers/ux/Carousel/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-app/src/containers/ux/Carousel/useCarousel.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-app/src/effects/useAuthentication.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-app/src/effects/useAuthentication.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-app/src/effects/useForm.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-app/src/effects/useForm.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-app/src/effects/useFormInput.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-app/src/effects/useFormInput.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-app/src/effects/useImmutableState.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-app/src/effects/useImmutableState.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-app/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-app/src/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-app/src/pages/home/Container.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-app/src/pages/home/Container.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-app/src/reducers/immutableReducer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-app/src/reducers/immutableReducer.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-app/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-app/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-app/tslint.json" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-app/tslint.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-app/typings/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-app/typings/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-core" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-core" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-core/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-core/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-logo" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-logo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-logo/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-logo/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-logo/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-logo/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-logo/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-logo/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-logo/src/actions/arithmetic/decrement.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-logo/src/actions/arithmetic/decrement.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-logo/src/actions/arithmetic/increment.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-logo/src/actions/arithmetic/increment.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-logo/src/actions/clear.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-logo/src/actions/clear.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-logo/src/actions/geometric/reflect.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-logo/src/actions/geometric/reflect.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-logo/src/actions/geometric/reflection.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-logo/src/actions/geometric/reflection.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-logo/src/actions/geometric/rotate.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-logo/src/actions/geometric/rotate.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-logo/src/actions/geometric/rotation.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-logo/src/actions/geometric/rotation.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-logo/src/actions/geometric/translate.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-logo/src/actions/geometric/translate.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-logo/src/actions/geometric/translation.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-logo/src/actions/geometric/translation.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-logo/src/components/CanvasSphere.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-logo/src/components/CanvasSphere.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-logo/src/components/Logo.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-logo/src/components/Logo.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-logo/src/components/SvgGQuadrant.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-logo/src/components/SvgGQuadrant.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-logo/src/components/SvgGSphere.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-logo/src/components/SvgGSphere.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-logo/src/components/drawing/point.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-logo/src/components/drawing/point.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-logo/src/components/drawing/quadraticCurve.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-logo/src/components/drawing/quadraticCurve.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-logo/src/components/drawing/quadraticCurveTo.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-logo/src/components/drawing/quadraticCurveTo.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-logo/src/components/painting/arc.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-logo/src/components/painting/arc.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-logo/src/components/painting/drawArc.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-logo/src/components/painting/drawArc.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-logo/src/components/painting/drawCircle.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-logo/src/components/painting/drawCircle.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-logo/src/components/painting/drawVisibleArc.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-logo/src/components/painting/drawVisibleArc.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-logo/src/components/painting/longArc.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-logo/src/components/painting/longArc.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-logo/src/components/painting/smallArc.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-logo/src/components/painting/smallArc.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-logo/src/components/painting/traceCircle.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-logo/src/components/painting/traceCircle.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-logo/src/epics/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-logo/src/epics/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-logo/src/epics/intervalEpic.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-logo/src/epics/intervalEpic.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-logo/src/epics/pingEpic.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-logo/src/epics/pingEpic.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-logo/src/epics/rotateEpic.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-logo/src/epics/rotateEpic.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-logo/src/selectors/getQuadrant.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-logo/src/selectors/getQuadrant.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-logo/src/selectors/getQuadrantGradientColors.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-logo/src/selectors/getQuadrantGradientColors.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-logo/src/selectors/getQuadrantMatrix.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-logo/src/selectors/getQuadrantMatrix.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-logo/src/selectors/getQuadrantNormal.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-logo/src/selectors/getQuadrantNormal.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-logo/src/selectors/getQuadrantPath.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-logo/src/selectors/getQuadrantPath.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-logo/src/selectors/getQuadrantSolidColor.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-logo/src/selectors/getQuadrantSolidColor.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-logo/src/selectors/getQuadrantVector.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-logo/src/selectors/getQuadrantVector.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-logo/src/selectors/getSolidColor.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-logo/src/selectors/getSolidColor.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-logo/src/selectors/ordinalToVector.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-logo/src/selectors/ordinalToVector.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-logo/src/store/createEpicMiddleware.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-logo/src/store/createEpicMiddleware.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-logo/src/store/initialState.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-logo/src/store/initialState.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-logo/src/store/reducers/arithmetic/decrement.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-logo/src/store/reducers/arithmetic/decrement.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-logo/src/store/reducers/arithmetic/increment.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-logo/src/store/reducers/arithmetic/increment.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-logo/src/store/reducers/arithmetic/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-logo/src/store/reducers/arithmetic/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-logo/src/store/reducers/clear.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-logo/src/store/reducers/clear.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-logo/src/store/reducers/geometric/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-logo/src/store/reducers/geometric/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-logo/src/store/reducers/geometric/reflect.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-logo/src/store/reducers/geometric/reflect.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-logo/src/store/reducers/geometric/rotate.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-logo/src/store/reducers/geometric/rotate.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-logo/src/store/reducers/geometric/translate.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-logo/src/store/reducers/geometric/translate.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-logo/src/store/reducers/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-logo/src/store/reducers/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-logo/src/types/ArrayPath.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-logo/src/types/ArrayPath.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-logo/src/types/IQuadrantProps.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-logo/src/types/IQuadrantProps.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-logo/src/types/IRootState.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-logo/src/types/IRootState.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-logo/src/types/IState.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-logo/src/types/IState.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-logo/src/types/IVector.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-logo/src/types/IVector.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-logo/src/types/Path.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-logo/src/types/Path.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-logo/src/types/Path2D.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-logo/src/types/Path2D.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-logo/src/types/actions/geometric/Reflect.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-logo/src/types/actions/geometric/Reflect.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-logo/src/types/actions/geometric/Rotate.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-logo/src/types/actions/geometric/Rotate.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-logo/src/types/actions/geometric/Translate.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-logo/src/types/actions/geometric/Translate.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-logo/src/utils/angle.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-logo/src/utils/angle.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-logo/src/utils/calcControl.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-logo/src/utils/calcControl.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-logo/src/utils/circlePlot.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-logo/src/utils/circlePlot.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-logo/src/utils/getIn.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-logo/src/utils/getIn.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-logo/src/utils/isMatrix.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-logo/src/utils/isMatrix.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-logo/src/utils/isMatrix3D.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-logo/src/utils/isMatrix3D.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-logo/src/utils/isVector.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-logo/src/utils/isVector.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-logo/src/utils/isVector3D.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-logo/src/utils/isVector3D.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-logo/src/utils/normalize.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-logo/src/utils/normalize.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-logo/src/utils/plot.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-logo/src/utils/plot.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-logo/src/utils/rotate.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-logo/src/utils/rotate.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-logo/src/utils/rotateX.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-logo/src/utils/rotateX.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-logo/src/utils/rotateY.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-logo/src/utils/rotateY.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-logo/src/utils/rotateZ.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-logo/src/utils/rotateZ.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-logo/src/utils/setIn.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-logo/src/utils/setIn.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-logo/src/utils/splot.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-logo/src/utils/splot.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-logo/src/utils/translate.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-logo/src/utils/translate.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-logo/src/utils/vector.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-logo/src/utils/vector.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-shell" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-shell" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-shell/tslint.json" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-shell/tslint.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/um-react-view" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-view" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-view/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-view/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-view/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-view/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-view/src/ux/layout/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-view/src/ux/layout/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/um-react-view/tslint.json" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-view/tslint.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/um-react-vis" beforeDir="false" afterPath="$PROJECT_DIR$/um-react-vis" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -46,13 +184,17 @@
     <session id="-754411783">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.114" value="1" />
           <entry key="project.open.time.12" value="1" />
-          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.38" value="1" />
+          <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.80" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -62,47 +204,53 @@
           <entry key="StatusBar" value="1" />
           <entry key="app" value="1" />
           <entry key="css" value="1" />
+          <entry key="gitignore" value="2" />
           <entry key="gitmodules" value="1" />
-          <entry key="js" value="21" />
-          <entry key="json" value="47" />
-          <entry key="md" value="7" />
-          <entry key="ts" value="1422" />
+          <entry key="js" value="35" />
+          <entry key="json" value="65" />
+          <entry key="md" value="8" />
+          <entry key="ts" value="1592" />
           <entry key="tsq" value="1" />
-          <entry key="tsx" value="189" />
+          <entry key="tsx" value="251" />
+          <entry key="tsy" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="1" />
-          <entry key="JSON" value="31" />
-          <entry key="JavaScript" value="21" />
-          <entry key="PLAIN_TEXT" value="12" />
-          <entry key="TypeScript" value="1423" />
-          <entry key="TypeScript JSX" value="189" />
-          <entry key="tsconfig" value="16" />
+          <entry key="JSON" value="42" />
+          <entry key="JavaScript" value="35" />
+          <entry key="PLAIN_TEXT" value="16" />
+          <entry key="TypeScript" value="1593" />
+          <entry key="TypeScript JSX" value="251" />
+          <entry key="tsconfig" value="23" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts">
         <counts>
-          <entry key="TypeScriptServerServiceImpl" value="5" />
+          <entry key="TypeScriptServerServiceImpl" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="gitmodules" value="4" />
-          <entry key="json" value="354" />
+          <entry key="js" value="41" />
+          <entry key="json" value="470" />
+          <entry key="jsx" value="73" />
           <entry key="md" value="1443" />
-          <entry key="ts" value="29617" />
-          <entry key="tsx" value="10437" />
+          <entry key="ts" value="36250" />
+          <entry key="tsx" value="13083" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JSON" value="299" />
+          <entry key="JSON" value="398" />
+          <entry key="JSX Harmony" value="73" />
+          <entry key="JavaScript" value="41" />
           <entry key="PLAIN_TEXT" value="1447" />
-          <entry key="TypeScript" value="29617" />
-          <entry key="TypeScript JSX" value="10437" />
-          <entry key="tsconfig" value="55" />
+          <entry key="TypeScript" value="36250" />
+          <entry key="TypeScript JSX" value="13083" />
+          <entry key="tsconfig" value="72" />
         </counts>
       </usages-collector>
     </session>
@@ -113,34 +261,40 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/um-app/src/index.tsx">
+        <entry file="file://$PROJECT_DIR$/um-react-view/src/ux/layout/index.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="20" />
-              <folding>
-                <element signature="e#0#31#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="17">
+              <caret line="1" column="43" selection-start-line="1" selection-start-column="43" selection-end-line="1" selection-end-column="43" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/um-app/src/containers/MovieContainer/useMovieBox.ts">
+        <entry file="file://$PROJECT_DIR$/um-react-view/src/ux/layout/Carousel/index.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="56" lean-forward="true" selection-start-line="5" selection-start-column="56" selection-end-line="5" selection-end-column="56" />
+            <state relative-caret-position="102">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/um-react-view/src/ux/layout/Carousel/Container.tsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
               <folding>
-                <element signature="n#!!doc" expanded="true" />
+                <element signature="e#0#31#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/um-app/src/App.tsx">
+        <entry file="file://$PROJECT_DIR$/um-react-view/src/ux/layout/Carousel/Slide.tsx">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
-              <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+              <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
               </folding>
@@ -149,42 +303,59 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/um-app/README.md">
+        <entry file="file://$PROJECT_DIR$/um-react-app/src/containers/app/AppCarousel.tsy">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/um-app/src/pages/home/index.ts">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/um-app/package.json">
+        <entry file="file://$PROJECT_DIR$/um-react-app/src/containers/app/Container.tsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/um-app/src/containers/MovieContainer/MovieContainer.tsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            <state>
               <folding>
-                <element signature="e#0#31#0" expanded="true" />
-                <element signature="e#199#239#0" expanded="true" />
+                <element signature="e#0#40#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
+        <entry file="file://$PROJECT_DIR$/um-react-view/src/ux/layout/Carousel/reducer.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="830">
-              <caret line="100" column="55" selection-start-line="100" selection-start-column="55" selection-end-line="100" selection-end-column="55" />
+            <state relative-caret-position="34">
+              <caret line="2" column="44" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/um-react-shell/src/models/ShellModel.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="41" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/um-react-core/src/models/AppModel.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+              <folding>
+                <element signature="e#0#49#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/um-react-core/src/models/useAppModel.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+              <folding>
+                <element signature="e#0#43#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -193,10 +364,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>import { TransitionVisual } from '../transitions/transition';</find>
-      <find>Visual } from '../</find>
-      <find>',</find>
-      <find>'./PropTypes/index'</find>
       <find>React.HTMLAttributes&lt;</find>
       <find>React.ReactType</find>
       <find>ReactType</find>
@@ -223,10 +390,12 @@
       <find>invalidator</find>
       <find>Loader</find>
       <find>Image</find>
+      <find>the-plat</find>
+      <find>isMap</find>
+      <find>um-react-core</find>
+      <find>um-grommet</find>
     </findStrings>
     <replaceStrings>
-      <replace>import { StandardVisual } from './StandardVisual';</replace>
-      <replace>StandardVisual</replace>
       <replace>Visual } from '</replace>
       <replace>import { TransitionVisual } from './TransitionVisual';</replace>
       <replace>Visual } from './</replace>
@@ -255,6 +424,8 @@
       <replace>import { Component, Visual } from './primitives';</replace>
       <replace />
       <replace>Movie</replace>
+      <replace>um-grommet</replace>
+      <replace>um-material-ui</replace>
     </replaceStrings>
     <dirStrings>
       <dir>C:\dev\um\um-app\src\visualization\visuals</dir>
@@ -263,62 +434,62 @@
     </dirStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/um-core" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/um-react-view" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/um-react-view/src/form/field/FancyInput.tsx" />
-        <option value="$PROJECT_DIR$/um-app/src/routes/index.ts" />
-        <option value="$PROJECT_DIR$/um-app/src/effects/useGitHubUsers.ts" />
-        <option value="$PROJECT_DIR$/um-react-view/src/window/useWindowWidth.ts" />
-        <option value="$PROJECT_DIR$/um-app/src/containers/AppContainer/AppCarousel.tsx" />
-        <option value="$PROJECT_DIR$/um-app/src/containers/MovieContainer/MovieContainer.ts" />
-        <option value="$PROJECT_DIR$/um-app/src/containers/MovieContainer/data.ts" />
-        <option value="$PROJECT_DIR$/um-app/src/containers/MovieContainer/api/data.ts" />
-        <option value="$PROJECT_DIR$/um-core/src/data/fetch/index.ts" />
-        <option value="$PROJECT_DIR$/um-app/tsconfig.json" />
-        <option value="$PROJECT_DIR$/um-app/src/containers/MovieContainer/useMovieReview.ts" />
-        <option value="$PROJECT_DIR$/um-app/src/containers/MovieContainer/Movie.ts" />
-        <option value="$PROJECT_DIR$/um-app/src/containers/MovieContainer/useMovies.ts" />
-        <option value="$PROJECT_DIR$/um-app/src/containers/MovieContainer/useMovieDetails.ts" />
-        <option value="$PROJECT_DIR$/um-app/src/containers/MovieContainer/MovieMetrics.tsx" />
-        <option value="$PROJECT_DIR$/um-app/src/containers/MovieContainer/useMovieState.ts" />
-        <option value="$PROJECT_DIR$/um-app/typings/global.d.ts" />
-        <option value="$PROJECT_DIR$/um-core/src/data/context/index.ts" />
-        <option value="$PROJECT_DIR$/um-core/src/data/context/Data.ts" />
-        <option value="$PROJECT_DIR$/um-app/src/effects/useForm.ts" />
-        <option value="$PROJECT_DIR$/um-app/src/context/RouterProvider.tsx" />
-        <option value="$PROJECT_DIR$/um-app/src/routes/index.tsx" />
-        <option value="$PROJECT_DIR$/um-app/src/providers/RouterProvider.tsx" />
-        <option value="$PROJECT_DIR$/um-app/src/effects/userRouter.ts" />
-        <option value="$PROJECT_DIR$/um-app/src/context/RouterContext.tsx" />
-        <option value="$PROJECT_DIR$/um-app/src/containers/MovieContainer/useMovie.ts" />
-        <option value="$PROJECT_DIR$/um-app/src/context/PresenterContext.ts" />
-        <option value="$PROJECT_DIR$/um-app/src/components/Spinner.tsx" />
-        <option value="$PROJECT_DIR$/um-core/README.md" />
-        <option value="$PROJECT_DIR$/um-app/src/containers/MovieContainer/useMovieBox.ts" />
-        <option value="$PROJECT_DIR$/um-app/src/cache/indext.ts" />
-        <option value="$PROJECT_DIR$/um-app/src/containers/MovieContainer/MovieListPage.tsx" />
-        <option value="$PROJECT_DIR$/um-core/src/epics/intervalEpic.ts" />
-        <option value="$PROJECT_DIR$/um-core/src/epics/rotateEpic.ts" />
-        <option value="$PROJECT_DIR$/um-core/src/data/createFetcher.ts" />
-        <option value="$PROJECT_DIR$/um-app/src/containers/MovieContainer/MoviePage.tsx" />
-        <option value="$PROJECT_DIR$/um-app/src/containers/MovieContainer/MovieDetails.tsx" />
-        <option value="$PROJECT_DIR$/um-app/src/containers/MovieContainer/MovieReview.tsx" />
-        <option value="$PROJECT_DIR$/um-app/src/containers/MovieContainer/MoviePoster.tsx" />
-        <option value="$PROJECT_DIR$/um-app/src/containers/MovieContainer/MovieContainer.tsx" />
-        <option value="$PROJECT_DIR$/um-app/src/pages/Home/Container.tsx" />
-        <option value="$PROJECT_DIR$/um-app/src/pages/Home/index.ts" />
-        <option value="$PROJECT_DIR$/um-app/src/pages/index.ts" />
-        <option value="$PROJECT_DIR$/um-app/src/components/SwapInImage.ts" />
-        <option value="$PROJECT_DIR$/um-app/src/components/SwapInImage.tsx" />
-        <option value="$PROJECT_DIR$/um-app/src/pages/home/Container.tsx" />
-        <option value="$PROJECT_DIR$/um-app/src/components/Img.tsx" />
-        <option value="$PROJECT_DIR$/um-app/src/App.tsx" />
-        <option value="$PROJECT_DIR$/um-app/src/index.tsx" />
-        <option value="$PROJECT_DIR$/um-app/package.json" />
-        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/um-material-ui/src/components/AppBar.tsx" />
+        <option value="$PROJECT_DIR$/um-material-ui/src/components/Tabs.tsx" />
+        <option value="$PROJECT_DIR$/um-material-ui/src/components/Form.tsx" />
+        <option value="$PROJECT_DIR$/um-material-ui/src/components/Button.tsx" />
+        <option value="$PROJECT_DIR$/um-material-ui/src/components/List.tsx" />
+        <option value="$PROJECT_DIR$/um-material-ui/src/components/Menu.tsx" />
+        <option value="$PROJECT_DIR$/um-material-ui/src/components/Panel.tsx" />
+        <option value="$PROJECT_DIR$/um-material-ui/src/components/Dialog.tsx" />
+        <option value="$PROJECT_DIR$/um-material-ui/src/components/index.ts" />
+        <option value="$PROJECT_DIR$/um-react-core/src/models/ImmutableModel.ts" />
+        <option value="$PROJECT_DIR$/um-react-core/src/components/View.tsx" />
+        <option value="$PROJECT_DIR$/um-react-core/src/components/Viewport.tsx" />
+        <option value="$PROJECT_DIR$/um-react-core/src/container/Viewport.tsx" />
+        <option value="$PROJECT_DIR$/um-react-core/src/container/index.ts" />
+        <option value="$PROJECT_DIR$/um-react-core/src/models/useViewModel.ts" />
+        <option value="$PROJECT_DIR$/um-react-core/src/models/useNavModel.ts" />
+        <option value="$PROJECT_DIR$/um-react-core/src/reducers/arrayReducer.ts" />
+        <option value="$PROJECT_DIR$/um-react-core/src/reducers/index.ts" />
+        <option value="$PROJECT_DIR$/um-react-core/src/index.ts" />
+        <option value="$PROJECT_DIR$/um-react-core/src/contexts/initContext.ts" />
+        <option value="$PROJECT_DIR$/um-react-core/src/contexts/NavContext.ts" />
+        <option value="$PROJECT_DIR$/um-react-shell/src/models/useAppModel.ts" />
+        <option value="$PROJECT_DIR$/um-react-core/src/models/AppMode.ts" />
+        <option value="$PROJECT_DIR$/um-react-shell/typings/index.d.ts" />
+        <option value="$PROJECT_DIR$/typings/index.d.ts" />
+        <option value="$PROJECT_DIR$/um-react-core/package.json" />
+        <option value="$PROJECT_DIR$/um-react-core/src/models/StateModel.ts" />
+        <option value="$PROJECT_DIR$/um-react-core/src/containers/Viewport.tsx" />
+        <option value="$PROJECT_DIR$/um-react-core/src/contexts/ViewContext.ts" />
+        <option value="$PROJECT_DIR$/um-react-core/src/models/ContextStateValueType.ts" />
+        <option value="$PROJECT_DIR$/um-react-core/src/models/index.ts" />
+        <option value="$PROJECT_DIR$/um-react-core/src/models/ContextState.ts" />
+        <option value="$PROJECT_DIR$/um-react-core/src/models/ContextValueType.ts" />
+        <option value="$PROJECT_DIR$/um-react-core/src/models/NavModel.ts" />
+        <option value="$PROJECT_DIR$/um-react-core/src/models/ViewModel.ts" />
+        <option value="$PROJECT_DIR$/um-react-core/src/models/ContextModel.ts" />
+        <option value="$PROJECT_DIR$/um-react-shell/src/models/ShellState.ts" />
+        <option value="$PROJECT_DIR$/um-react-shell/src/models/ShellActionType.ts" />
+        <option value="$PROJECT_DIR$/um-react-shell/src/models/ShellAction.ts" />
+        <option value="$PROJECT_DIR$/um-react-shell/src/models/ShellModel.ts" />
+        <option value="$PROJECT_DIR$/um-react-shell/src/models/index.ts" />
+        <option value="$PROJECT_DIR$/um-react-shell/src/models/useShellModel.ts" />
+        <option value="$PROJECT_DIR$/um-react-core/src/models/AppModel.ts" />
+        <option value="$PROJECT_DIR$/um-react-core/src/models/useAppModel.ts" />
+        <option value="$PROJECT_DIR$/um-react-core/src/contexts/AppContext.ts" />
+        <option value="$PROJECT_DIR$/um-react-shell/src/containers/app/AppContainer.tsx" />
+        <option value="$PROJECT_DIR$/um-react-view/src/ux/layout/index.ts" />
+        <option value="$PROJECT_DIR$/um-react-view/src/ux/layout/Carousel/Slide.tsx" />
+        <option value="$PROJECT_DIR$/um-react-view/src/ux/layout/Carousel/reducer.ts" />
+        <option value="$PROJECT_DIR$/um-react-view/src/ux/layout/Carousel/Container.tsx" />
+        <option value="$PROJECT_DIR$/um-react-view/src/ux/layout/Carousel/index.ts" />
       </list>
     </option>
   </component>
@@ -330,9 +501,10 @@
   </component>
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/node_modules" />
-    <handled-path value="$PROJECT_DIR$/um-app/node_modules" />
-    <handled-path value="$PROJECT_DIR$/um-core/node_modules" />
-    <handled-path value="$PROJECT_DIR$/um-react-logo/node_modules" />
+    <handled-path value="$PROJECT_DIR$/um-grommet/node_modules" />
+    <handled-path value="$PROJECT_DIR$/um-material-ui/node_modules" />
+    <handled-path value="$PROJECT_DIR$/um-react-app/node_modules" />
+    <handled-path value="$PROJECT_DIR$/um-react-core/node_modules" />
     <handled-path value="$PROJECT_DIR$/um-react-shell/node_modules" />
     <handled-path value="$PROJECT_DIR$/um-react-view/node_modules" />
     <handled-path value="$PROJECT_DIR$/um-react-vis/node_modules" />
@@ -340,8 +512,13 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths>
       <path value="$PROJECT_DIR$/package.json" />
-      <path value="$PROJECT_DIR$/um-app/package.json" />
-      <path value="$PROJECT_DIR$/um-core/package.json" />
+      <path value="$PROJECT_DIR$/um-core-hub/package.json" />
+      <path value="$PROJECT_DIR$/um-grommet/package.json" />
+      <path value="$PROJECT_DIR$/um-material-ui/package.json" />
+      <path value="$PROJECT_DIR$/um-react-adm/package.json" />
+      <path value="$PROJECT_DIR$/um-react-app/package.json" />
+      <path value="$PROJECT_DIR$/um-react-core/example/package.json" />
+      <path value="$PROJECT_DIR$/um-react-core/package.json" />
       <path value="$PROJECT_DIR$/um-react-logo/package.json" />
       <path value="$PROJECT_DIR$/um-react-shell/package.json" />
       <path value="$PROJECT_DIR$/um-react-view/package.json" />
@@ -349,10 +526,10 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="3832" />
-    <option name="y" value="-395" />
-    <option name="width" value="1096" />
-    <option name="height" value="1896" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -371,32 +548,71 @@
             <path>
               <item name="um" type="b2602c69:ProjectViewProjectNode" />
               <item name="um" type="462c0819:PsiDirectoryNode" />
-              <item name="um-app" type="462c0819:PsiDirectoryNode" />
+              <item name="um-react-app" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="um" type="b2602c69:ProjectViewProjectNode" />
               <item name="um" type="462c0819:PsiDirectoryNode" />
-              <item name="um-app" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="um-react-app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="um" type="b2602c69:ProjectViewProjectNode" />
               <item name="um" type="462c0819:PsiDirectoryNode" />
-              <item name="um-app" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-              <item name="stream-shift" type="462c0819:PsiDirectoryNode" />
+              <item name="um-react-app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="containers" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="um" type="b2602c69:ProjectViewProjectNode" />
               <item name="um" type="462c0819:PsiDirectoryNode" />
-              <item name="um-app" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-              <item name="the-platform" type="462c0819:PsiDirectoryNode" />
+              <item name="um-react-app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="containers" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="um" type="b2602c69:ProjectViewProjectNode" />
               <item name="um" type="462c0819:PsiDirectoryNode" />
-              <item name="um-core" type="462c0819:PsiDirectoryNode" />
+              <item name="um-react-app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="containers" type="462c0819:PsiDirectoryNode" />
+              <item name="ux" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="um" type="b2602c69:ProjectViewProjectNode" />
+              <item name="um" type="462c0819:PsiDirectoryNode" />
+              <item name="um-react-view" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="um" type="b2602c69:ProjectViewProjectNode" />
+              <item name="um" type="462c0819:PsiDirectoryNode" />
+              <item name="um-react-view" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="um" type="b2602c69:ProjectViewProjectNode" />
+              <item name="um" type="462c0819:PsiDirectoryNode" />
+              <item name="um-react-view" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ux" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="um" type="b2602c69:ProjectViewProjectNode" />
+              <item name="um" type="462c0819:PsiDirectoryNode" />
+              <item name="um-react-view" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ux" type="462c0819:PsiDirectoryNode" />
+              <item name="layout" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="um" type="b2602c69:ProjectViewProjectNode" />
+              <item name="um" type="462c0819:PsiDirectoryNode" />
+              <item name="um-react-view" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ux" type="462c0819:PsiDirectoryNode" />
+              <item name="layout" type="462c0819:PsiDirectoryNode" />
+              <item name="Carousel" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -406,26 +622,26 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ntt" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../hercules/hercules-management-7324" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.TypeScript" />
-    <property name="ts.external.directory.path" value="C:\dev\um\um-core\node_modules\typescript\lib" />
+    <property name="ts.external.directory.path" value="C:\dev\um\um-react-core\node_modules\typescript\lib" />
     <property name="typescript-compiler-editor-notification" value="false" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\dev\um\um-app\src\providers" />
-      <recent name="C:\dev\um\um-app\src\containers\MovieContainer\api" />
-      <recent name="C:\dev\um\um-app\src\containers\Carousel" />
-      <recent name="C:\dev\um\um-react-view\src" />
-      <recent name="C:\dev\um\um-react-view\src\view" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\dev\um\um-app\src\containers\MovieContainer" />
-      <recent name="C:\dev\um\um-react-view\src\window" />
-      <recent name="C:\dev\um\um-react-view" />
-      <recent name="C:\dev\um\um-react-view\src\zoom" />
-      <recent name="C:\dev\um\um-react-view\src\tree" />
+      <recent name="C:\dev\um\um-material-ui\src\components" />
+      <recent name="C:\dev\um\um-material-ui" />
+      <recent name="C:\dev\um\um-grommet" />
+      <recent name="C:\dev\um\um-react-shell" />
+      <recent name="C:\dev\um\um-react-core\src\reducers" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\dev\um\um-react-view\src\ux\layout\Carousel" />
+      <recent name="C:\dev\um\um-react-core\src\models" />
+      <recent name="C:\dev\um\um-react-core\src\container" />
+      <recent name="C:\dev\um\um-material-ui" />
+      <recent name="C:\dev\um\um-react-core\src" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -455,21 +671,26 @@
       <workItem from="1541799794337" duration="2856000" />
       <workItem from="1542040536834" duration="44180000" />
       <workItem from="1542233057752" duration="26883000" />
+      <workItem from="1542348819094" duration="7213000" />
+      <workItem from="1542383972850" duration="29939000" />
+      <workItem from="1542419771018" duration="3054000" />
+      <workItem from="1542481706182" duration="462000" />
+      <workItem from="1542644025763" duration="2140000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="185048000" />
+    <option name="totallyTimeSpent" value="227856000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="3832" y="-395" width="1096" height="1896" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5715835" visible="true" weight="0.27788278" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5715835" visible="true" weight="0.2776607" />
       <window_info id="Structure" order="1" sideWeight="0.4284165" side_tool="true" weight="0.34457323" />
       <window_info id="Favorites" order="2" side_tool="true" weight="0.32986766" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.46529284" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32973894" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.37744033" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.329718" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -510,359 +731,281 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/um-material-ui/stories/index.stories.js</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/um-core/src/data/context/Data.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/um-app/src/containers/MovieContainer/MovieMetrics.tsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/um-core/src/data/fetch/index.ts" />
-    <entry file="file://$PROJECT_DIR$/um-app/src/containers/AppContainer/AppContainer.tsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1020" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/um-app/src/memos/memoOptions.tsq">
+    <entry file="file://$PROJECT_DIR$/um-react-core/node_modules/ntt-view/dist/Visual.d.ts">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/um-app/src/effects/useForm.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/um-app/node_modules/@types/history/index.d.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/um-app/src/routes/index.tsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/um-app/src/containers/MovieContainer/useMovie.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="15" column="14" selection-start-line="9" selection-start-column="12" selection-end-line="15" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#47#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/um-app/src/context/PresenterContext.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="32" selection-start-column="7" selection-end-line="1" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/um-app/src/components/Spinner.tsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/um-app/src/providers/RouterProvider.tsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/um-app/src/context/RouterContext.tsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="e#0#47#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/um-app/src/effects/userRouter.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="7" column="5" selection-start-line="5" selection-start-column="4" selection-end-line="7" selection-end-column="5" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/um-app/node_modules/@types/react-router/index.d.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1088">
-          <caret line="87" column="17" selection-start-line="87" selection-start-column="17" selection-end-line="87" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/um-core/README.md">
+    <entry file="file://$PROJECT_DIR$/um-react-core/node_modules/ntt-view/dist/index.d.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/um-core/node_modules/simple-cache-provider/index.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/um-core/node_modules/simple-cache-provider/cjs/simple-cache-provider.development.js">
+    <entry file="file://$PROJECT_DIR$/um-react-core/node_modules/ntt-view/dist/Element.d.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="47">
-          <caret line="55" column="27" selection-start-line="55" selection-start-column="27" selection-end-line="55" selection-end-column="27" />
+        <state relative-caret-position="17">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/um-app/node_modules/ntt-flow/dist/typings/index.d.ts">
+    <entry file="file://$PROJECT_DIR$/um-react-core/src/containers/index.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/um-app/src/cache/indext.tsy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1962">
-          <caret line="374" column="55" selection-start-line="374" selection-start-column="55" selection-end-line="374" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/um-core/src/actions/types.ts">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/um-core/src/epics/intervalEpic.tsy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/um-core/src/epics/rotateEpic.tsy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/um-core/src/data/createFetcher.ts">
+    <entry file="file://$PROJECT_DIR$/um-react-core/src/reducers/index.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="3" selection-start-column="3" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/um-core/src/epics/pingEpic.tsy">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/um-app/src/containers/MovieContainer/MovieListPage.tsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/um-app/src/containers/MovieContainer/MovieDetails.tsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="42" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/um-app/src/containers/MovieContainer/MovieReview.tsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/um-app/src/containers/MovieContainer/MoviePage.tsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="38" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/um-app/node_modules/@types/react/global.d.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="88" column="10" selection-start-line="88" selection-start-column="10" selection-end-line="88" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/typings/global.d.ts">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/um-app/typings/index.d.ts">
+    <entry file="file://$PROJECT_DIR$/um-react-core/src/contexts/initContext.ts" />
+    <entry file="file://$PROJECT_DIR$/um-react-core/src/reducers/arrayReducer.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret selection-end-column="73" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+          <caret column="4" selection-start-column="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/um-react-core/src/contexts/NavContext.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="85" selection-start-line="3" selection-start-column="85" selection-end-line="3" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/um-react-core/src/contexts/index.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/um-react-core/node_modules/@types/react/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="794" column="86" selection-start-line="794" selection-start-column="59" selection-end-line="794" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/um-react-shell/src/index.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/um-react-shell/src/containers/app/index.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/um-react-shell/typings/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/typings/index.d.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-44" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/um-app/node_modules/@types/react/index.d.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="39219">
-          <caret line="2330" column="20" selection-start-line="2330" selection-start-column="14" selection-end-line="2330" selection-end-column="20" />
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/um-core/node_modules/typescript/lib/lib.dom.d.ts">
+    <entry file="file://$PROJECT_DIR$/um-react-core/src/models/ContextValueType.ts" />
+    <entry file="file://$PROJECT_DIR$/um-react-core/src/models/ContextState.ts" />
+    <entry file="file://$PROJECT_DIR$/um-react-core/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-831">
-          <caret line="6551" column="10" selection-start-line="6551" selection-start-column="10" selection-end-line="6551" selection-end-column="10" />
+        <state relative-caret-position="391">
+          <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/um-app/src/containers/MovieContainer/MoviePoster.tsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/um-app/src/App.css">
+    <entry file="file://$PROJECT_DIR$/um-react-shell/package.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/um-app/src/pages/home">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/um-app/src/components/SwapInImage.tsx">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/um-app/src/pages/index.ts">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/um-app/src/pages/home/Container.tsx">
+    <entry file="file://$PROJECT_DIR$/um-react-core/src/containers/Viewport.tsx" />
+    <entry file="file://$PROJECT_DIR$/um-react-core/src/contexts/ViewContext.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="64" selection-start-line="13" selection-start-column="64" selection-end-line="13" selection-end-column="64" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="799">
+          <caret line="47" column="56" selection-start-line="47" selection-start-column="56" selection-end-line="47" selection-end-column="56" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/um-app/README.md">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/um-app/src/App.tsx">
+    <entry file="file://$PROJECT_DIR$/um-react-core/src/models/NavModel.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
+        <state>
+          <caret column="39" selection-start-column="39" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/um-app/package.json">
+    <entry file="file://$PROJECT_DIR$/um-react-core/src/models/ViewModel.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+        <state relative-caret-position="34">
+          <caret line="2" column="46" selection-start-line="2" selection-start-column="46" selection-end-line="2" selection-end-column="46" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/um-app/src/pages/home/index.ts">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/um-app/src/components/Img.tsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/um-app/src/index.tsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="830">
-          <caret line="100" column="55" selection-start-line="100" selection-start-column="55" selection-end-line="100" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/um-app/src/containers/MovieContainer/MovieContainer.tsx">
+    <entry file="file://$PROJECT_DIR$/um-react-core/src/models/useViewModel.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/um-react-core/src/models/useNavModel.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/um-react-core/src/index.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/um-react-core/src/models/index.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="31" selection-start-line="1" selection-start-column="31" selection-end-line="1" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/um-react-shell/node_modules/um-react-core/dist/models/AppModel.d.ts" />
+    <entry file="file://$PROJECT_DIR$/um-react-shell/node_modules/um-react-core/dist/models/index.d.ts" />
+    <entry file="file://$PROJECT_DIR$/um-react-shell/src/models/ShellState.ts" />
+    <entry file="file://$PROJECT_DIR$/um-react-shell/src/models/ShellAction.ts" />
+    <entry file="file://$PROJECT_DIR$/um-react-shell/src/models/index.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/um-react-shell/src/models/useShellModel.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/um-react-core/src/models/ContextModel.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/um-react-core/dist/index.js" />
+    <entry file="file://$PROJECT_DIR$/um-react-core/dist/models/index.d.ts" />
+    <entry file="file://$PROJECT_DIR$/um-react-core/dist/models/AppModel.js" />
+    <entry file="file://$PROJECT_DIR$/um-react-core/dist/models/AppModel.d.ts" />
+    <entry file="file://$PROJECT_DIR$/um-react-shell/node_modules/um-react-core/dist/contexts/AppContext.d.ts" />
+    <entry file="file://$PROJECT_DIR$/um-react-shell/node_modules/um-react-core/dist/models/useAppModel.d.ts" />
+    <entry file="file://$PROJECT_DIR$/um-react-shell/src/containers/app/AppContainer.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/um-react-core/src/contexts/AppContext.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/um-react-view/src/ux/layout/index.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="43" selection-start-line="1" selection-start-column="43" selection-end-line="1" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/um-react-view/src/ux/layout/Carousel/Container.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
-            <element signature="e#199#239#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/um-app/src/containers/MovieContainer/useMovieBox.ts">
+    <entry file="file://$PROJECT_DIR$/um-react-view/src/ux/layout/Carousel/Slide.tsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="56" lean-forward="true" selection-start-line="5" selection-start-column="56" selection-end-line="5" selection-end-column="56" />
+        <state relative-caret-position="136">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#0#31#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/um-core/package.json">
+    <entry file="file://$PROJECT_DIR$/um-react-app/src/containers/app/AppCarousel.tsy">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/um-react-app/src/containers/app/Container.tsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
-          <caret line="43" column="8" selection-start-line="43" selection-start-column="8" selection-end-line="43" selection-end-column="8" />
+        <state>
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/um-react-view/src/ux/layout/Carousel/reducer.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="44" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/um-react-shell/src/models/ShellModel.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="41" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/um-react-core/src/models/AppModel.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/um-react-core/src/models/useAppModel.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/um-react-view/src/ux/layout/Carousel/index.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>

@@ -5,14 +5,24 @@
     <mapping directory="$PROJECT_DIR$/um-app" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/um-base" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/um-core" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/um-core-auth" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/um-core-flow" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/um-core-hub" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/um-core-pod" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/um-def" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/um-dir" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/um-grommet" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/um-hub" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/um-logo" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/um-material-ui" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/um-ml" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/um-plot" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/um-pod" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/um-react-adm" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/um-react-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/um-react-core" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/um-react-logo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/um-react-shell" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/um-react-view" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/um-react-vis" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/um-shell" vcs="Git" />
