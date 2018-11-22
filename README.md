@@ -24,7 +24,8 @@ git submodule add https://github.com/umbiliko/um-react-shell.git
 git submodule add https://github.com/umbiliko/um-react-view.git
 git submodule add https://github.com/umbiliko/um-react-vis.git
 
-git submodule update --init
+git submodule update --init --recursive
+git submodule update --recursive --remote
 ```
 
 ## Plugin sub-module initialization
